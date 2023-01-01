@@ -6,6 +6,6 @@ pip install pandas
 
 pip install openai
 
-If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) and then generate an [API key](https://beta.openai.com/account/api-keys) and replace the OPEN_API_KEY, on line number 5 of app.py with the API key you were given.
+If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) and then generate an [API key](https://beta.openai.com/account/api-keys) and replace OPEN_API_KEY, on line number 5 of app.py with the API key you were given.
 Save and then run.
 
