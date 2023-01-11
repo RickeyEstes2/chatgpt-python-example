@@ -22,17 +22,8 @@ response = generate_response(prompt)
 print(response)
 
 with open('chatlog.txt', 'a') as f:
-  f.write(prompt + '\n')
-  f.write(response + '\n')
-  
-with open('webscraper.txt', 'w') as f:
   f.write('I asked ChatGPT:\n' + prompt + '\n')
-  f.write('\n')
   f.write('ChatGPT replied:\n' + response + '\n')
-
-with open('webscraper2.txt', 'w') as f:
-   f.write(response)
-  
 
 
 
